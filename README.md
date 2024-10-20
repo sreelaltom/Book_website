@@ -8,10 +8,10 @@ This is a simple web application called **BookWebsite** for managing books. The 
 - Delete a book.
 - Live updates and interaction with the backend using API endpoints.
 
-## Screenshot
 
-![BookWebsite Screenshot](./path-to-screenshot.png)  
-*(Replace this with your screenshot image path once added)*
+
+![Screenshot 2024-10-20 142527](https://github.com/user-attachments/assets/b8e7eefe-a1fd-4b4f-93fa-181b1fc15930)
+
 
 ## Tech Stack
 - **Frontend**: React.js
